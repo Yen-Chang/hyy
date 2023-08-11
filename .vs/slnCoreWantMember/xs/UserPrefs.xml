@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{54528561-0034-4601-953B-C4B12087CE8F}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prjCoreWantMember/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="prjCoreWantMember/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="prjCoreWantMember/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="prjCoreWantMember/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="slnCoreWantMember" expanded="True">
+            <Node name="prjCoreWantMember" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.prjCoreWantMember PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
